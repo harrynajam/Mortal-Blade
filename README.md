@@ -1,5 +1,6 @@
 # Mortal-Blade
 An attempt to automate PTH/PTP attack.
+![image](https://github.com/user-attachments/assets/118c0fed-f48d-4ff2-9ad5-7ca809b0e04b)
 
 The tool/Script is supposed to do following things:
 - Take breached creds ie domain Username & Password
@@ -9,6 +10,6 @@ The tool/Script is supposed to do following things:
 - Save all output in .txt file
 
 Ps. The tool is in beta and has only been tested in a personal AD environment.
-![image](https://github.com/user-attachments/assets/af831f84-a9ff-45f5-bb12-b20364a9dd18)
+
 
 
