@@ -8,3 +8,4 @@ The tool/Script is supposed to do following things:
 - Until Domain Controller is found/Compromised
 - Save all output in .txt file
 
+Ps. Tool is in beta and only tested in personal AD environment.
