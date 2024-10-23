@@ -9,5 +9,6 @@ The tool/Script is supposed to do following things:
 - Save all output in .txt file
 
 Ps. The tool is in beta and has only been tested in a personal AD environment.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/af831f84-a9ff-45f5-bb12-b20364a9dd18)
+
 
