@@ -14,7 +14,7 @@ The Tool/Script is supposed to do following things:
 
 
 
-Ps. The tool is in beta and has only been tested in a personal AD environment.
+Ps. The tool is in beta and has only been tested in a personal AD environment, few things might break.
 
 
 
