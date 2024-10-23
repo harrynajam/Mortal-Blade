@@ -2,10 +2,10 @@
 PTH/PTP made EZ ^-^
 
 The Tool/Script is supposed to do following things:
-- Take breached creds ie domain Username & Password
+- Take breached creds ie domain username & password
 - Perform simple Crackmapexec gather pwned machines
 - Perform secretsdump on each machine gathered, clean usernames/hashes and pass them further in network kinda like a recursive mode thing.
-- Until Domain Controller is found/Compromised
+- Until Domain Controller is found/compromised
 - Save all output in .txt file
 
 ![image](https://github.com/user-attachments/assets/118c0fed-f48d-4ff2-9ad5-7ca809b0e04b)
