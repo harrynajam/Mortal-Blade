@@ -1,5 +1,5 @@
 # Mortal-Blade
-An attempt to automate PTH/PTP attack.
+PTH/PTP made EZ ^-^
 ![image](https://github.com/user-attachments/assets/118c0fed-f48d-4ff2-9ad5-7ca809b0e04b)
 
 The tool/Script is supposed to do following things:
